@@ -1,0 +1,13 @@
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TestInterface1.exe
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TestInterface1.deps.json
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TestInterface1.runtimeconfig.json
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TestInterface1.runtimeconfig.dev.json
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TestInterface1.dll
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\TestInterface1.pdb
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TestInterface1.csprojAssemblyReference.cache
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TestInterface1.AssemblyInfoInputs.cache
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TestInterface1.AssemblyInfo.cs
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TestInterface1.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TestInterface1.dll
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TestInterface1.pdb
+C:\Users\m\Desktop\C# final task\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\TestInterface1.genruntimeconfig.cache
