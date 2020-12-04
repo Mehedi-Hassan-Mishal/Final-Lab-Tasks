@@ -1,0 +1,13 @@
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\FinalLabTask1.exe
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\FinalLabTask1.deps.json
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\FinalLabTask1.runtimeconfig.json
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\FinalLabTask1.runtimeconfig.dev.json
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\FinalLabTask1.dll
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\FinalLabTask1.pdb
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\FinalLabTask1.csprojAssemblyReference.cache
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\FinalLabTask1.AssemblyInfoInputs.cache
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\FinalLabTask1.AssemblyInfo.cs
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\FinalLabTask1.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\FinalLabTask1.dll
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\FinalLabTask1.pdb
+C:\Users\m\Desktop\C# final task\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\FinalLabTask1.genruntimeconfig.cache
