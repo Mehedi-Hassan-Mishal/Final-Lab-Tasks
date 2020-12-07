@@ -1,0 +1,13 @@
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.AddUser.resources
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.Registration.resources
+C:\Users\m\Desktop\C# final task\LoginForm\LoginForm\obj\Debug\LoginForm.ShowDetails.resources
