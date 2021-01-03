@@ -1,0 +1,22 @@
+D:\C#\Console Application\BookFinder\BookFinder\bin\Debug\BookFinder.exe.config
+D:\C#\Console Application\BookFinder\BookFinder\bin\Debug\BookFinder.exe
+D:\C#\Console Application\BookFinder\BookFinder\bin\Debug\BookFinder.pdb
+D:\C#\Console Application\BookFinder\BookFinder\obj\Debug\BookFinder.csprojAssemblyReference.cache
+D:\C#\Console Application\BookFinder\BookFinder\obj\Debug\BookFinder.Properties.Resources.resources
+D:\C#\Console Application\BookFinder\BookFinder\obj\Debug\BookFinder.Views.AllForms.resources
+D:\C#\Console Application\BookFinder\BookFinder\obj\Debug\BookFinder.csproj.GenerateResource.cache
+D:\C#\Console Application\BookFinder\BookFinder\obj\Debug\BookFinder.csproj.CoreCompileInputs.cache
+D:\C#\Console Application\BookFinder\BookFinder\obj\Debug\BookFinder.exe
+D:\C#\Console Application\BookFinder\BookFinder\obj\Debug\BookFinder.pdb
+D:\C#\Console Application\BookFinder\BookFinder\obj\Debug\BookFinder.Views.BookInformation.resources
+D:\C#\LabTask\BookFinder\BookFinder\bin\Debug\BookFinder.exe.config
+D:\C#\LabTask\BookFinder\BookFinder\bin\Debug\BookFinder.exe
+D:\C#\LabTask\BookFinder\BookFinder\bin\Debug\BookFinder.pdb
+D:\C#\LabTask\BookFinder\BookFinder\obj\Debug\BookFinder.csprojAssemblyReference.cache
+D:\C#\LabTask\BookFinder\BookFinder\obj\Debug\BookFinder.Properties.Resources.resources
+D:\C#\LabTask\BookFinder\BookFinder\obj\Debug\BookFinder.Views.AllForms.resources
+D:\C#\LabTask\BookFinder\BookFinder\obj\Debug\BookFinder.Views.BookInformation.resources
+D:\C#\LabTask\BookFinder\BookFinder\obj\Debug\BookFinder.csproj.GenerateResource.cache
+D:\C#\LabTask\BookFinder\BookFinder\obj\Debug\BookFinder.csproj.CoreCompileInputs.cache
+D:\C#\LabTask\BookFinder\BookFinder\obj\Debug\BookFinder.exe
+D:\C#\LabTask\BookFinder\BookFinder\obj\Debug\BookFinder.pdb

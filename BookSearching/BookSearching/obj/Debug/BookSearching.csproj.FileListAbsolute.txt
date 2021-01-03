@@ -1,0 +1,11 @@
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\bin\Debug\BookFinder.exe.config
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\bin\Debug\BookFinder.exe
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\bin\Debug\BookFinder.pdb
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearching.csprojAssemblyReference.cache
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookFinder.Properties.Resources.resources
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearching.csproj.GenerateResource.cache
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearching.csproj.CoreCompileInputs.cache
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookFinder.exe
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookFinder.pdb
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearching.Views.BookDetails.resources
+C:\Users\m\Downloads\BookFinder\BookFinder\BookFinder\obj\Debug\BookSearching.Views.AllBooks.resources
